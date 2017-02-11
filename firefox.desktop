@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Firefox
+Exec=/firefox/firefox
+Icon=/firefox/browser/icons/mozicon128.png
+Terminal=false

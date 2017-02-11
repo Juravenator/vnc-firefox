@@ -1,0 +1,17 @@
+{
+  "name": "firefox_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "makeImages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docker-registry-client": "^3.2.6",
+    "jsdom": "^9.10.0",
+    "node-docker-api": "^1.1.3",
+    "tar-fs": "^1.15.0"
+  }
+}
